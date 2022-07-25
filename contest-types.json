@@ -1,0 +1,21 @@
+[{
+  "code": 0,
+  "name": "Tuần",
+  "description": "Cuộc thi diễn ra mỗi tuần một lần"
+}, {
+  "code": 1,
+  "name": "Tháng",
+  "description": "Cuộc thi diễn ra mỗi 1 tháng một lần"
+}, {
+  "code": 2,
+  "name": "Năm",
+  "description": "Cuộc thi diễn ra mỗi năm một lần"
+}, {
+  "code": 3,
+  "name": "Quý",
+  "description": "Cuộc thi diễn ra mỗi 3 tháng một lần"
+}, {
+  "code": 4,
+  "name": "Mặc định",
+  "description": "Loại của cuộc thi được xem là không quan trọng"
+}]

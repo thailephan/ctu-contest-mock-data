@@ -1,0 +1,22 @@
+[
+  {
+    "name": "inactive",
+    "code": 3,
+    "description": ""
+  },
+  {
+    "name": "deleted",
+    "code": 1,
+    "description": ""
+  },
+  {
+    "name": "blocked",
+    "code": 2,
+    "description": ""
+  },
+  {
+    "name": "active",
+    "code": 0,
+    "description": ""
+  }
+]

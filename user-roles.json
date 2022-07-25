@@ -1,0 +1,26 @@
+[
+  {
+    "name": "admin",
+    "code": 0,
+    "description": "",
+    "permissions": []
+  },
+  {
+    "name": "manager",
+    "code": 1,
+    "description": "",
+    "permissions": []
+  },
+  {
+    "name": "supporter",
+    "code": 2,
+    "description": "",
+    "permissions": []
+  },
+  {
+    "name": "user",
+    "code": 3,
+    "description": "",
+    "permissions": []
+  }
+]

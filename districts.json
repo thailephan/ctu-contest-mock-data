@@ -1,0 +1,3474 @@
+[
+  {
+    "name": "Huyện An Phú",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Huyện Châu Phú",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Huyện Chợ Mới",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Huyện Phú Tân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Huyện Thoại Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Huyện Tịnh Biên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Huyện Tri Tôn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Thành Phố Châu Đốc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Thành Phố Long Xuyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Thị Xã Tân Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b45"
+  },
+  {
+    "name": "Huyện Châu Đức",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b46"
+  },
+  {
+    "name": "Huyện Côn Đảo",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b46"
+  },
+  {
+    "name": "Huyện Long Điền",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b46"
+  },
+  {
+    "name": "Huyện Xuyên Mộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b46"
+  },
+  {
+    "name": "Huyện Đất Đỏ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b46"
+  },
+  {
+    "name": "Thành Phố Bà Rịa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b46"
+  },
+  {
+    "name": "Thành Phố Vũng Tàu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b46"
+  },
+  {
+    "name": "Thị xã Phú Mỹ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b46"
+  },
+  {
+    "name": "Huyện Hiệp Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Huyện Lạng Giang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Huyện Lục Nam",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Huyện Lục Ngạn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Huyện Sơn Động",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Huyện Tân Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Huyện Việt Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Huyện Yên Dũng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Huyện Yên Thế",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Thành Phố Bắc Giang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b47"
+  },
+  {
+    "name": "Huyện Ba Bể",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b48"
+  },
+  {
+    "name": "Huyện Bạch Thông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b48"
+  },
+  {
+    "name": "Huyện Chợ Mới",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b48"
+  },
+  {
+    "name": "Huyện Chợ Đồn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b48"
+  },
+  {
+    "name": "Huyện Na Rì",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b48"
+  },
+  {
+    "name": "Huyện Ngân Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b48"
+  },
+  {
+    "name": "Huyện Pắc Nặm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b48"
+  },
+  {
+    "name": "Thành Phố Bắc Kạn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b48"
+  },
+  {
+    "name": "Huyện Hòa Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b49"
+  },
+  {
+    "name": "Huyện Hồng Dân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b49"
+  },
+  {
+    "name": "Huyện Phước Long",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b49"
+  },
+  {
+    "name": "Huyện Vĩnh Lợi",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b49"
+  },
+  {
+    "name": "Huyện Đông Hải",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b49"
+  },
+  {
+    "name": "Thành Phố Bạc Liêu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b49"
+  },
+  {
+    "name": "Thị Xã Giá Rai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b49"
+  },
+  {
+    "name": "Huyện Gia Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4a"
+  },
+  {
+    "name": "Huyện Lương Tài",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4a"
+  },
+  {
+    "name": "Huyện Quế Võ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4a"
+  },
+  {
+    "name": "Huyện Thuận Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4a"
+  },
+  {
+    "name": "Huyện Tiên Du",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4a"
+  },
+  {
+    "name": "Huyện Yên Phong",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4a"
+  },
+  {
+    "name": "Thành Phố Bắc Ninh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4a"
+  },
+  {
+    "name": "Thị Xã Từ Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4a"
+  },
+  {
+    "name": "Huyện Ba Tri",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4b"
+  },
+  {
+    "name": "Huyện Bình Đại",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4b"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4b"
+  },
+  {
+    "name": "Huyện Chợ Lách",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4b"
+  },
+  {
+    "name": "Huyện Giồng Trôm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4b"
+  },
+  {
+    "name": "Huyện Mỏ Cày Bắc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4b"
+  },
+  {
+    "name": "Huyện Mỏ Cày Nam",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4b"
+  },
+  {
+    "name": "Huyện Thạnh Phú",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4b"
+  },
+  {
+    "name": "Thành Phố Bến Tre",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4b"
+  },
+  {
+    "name": "Huyện Bắc Tân Uyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4c"
+  },
+  {
+    "name": "Huyện Bàu Bàng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4c"
+  },
+  {
+    "name": "Huyện Dầu Tiếng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4c"
+  },
+  {
+    "name": "Huyện Phú Giáo",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4c"
+  },
+  {
+    "name": "Thành Phố Dĩ An",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4c"
+  },
+  {
+    "name": "Thành Phố Thủ Dầu Một",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4c"
+  },
+  {
+    "name": "Thành Phố Thuận An",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4c"
+  },
+  {
+    "name": "Thị Xã Bến Cát",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4c"
+  },
+  {
+    "name": "Thị Xã Tân Uyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4c"
+  },
+  {
+    "name": "Huyện Bù Gia Mập",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Huyện Bù Đăng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Huyện Bù Đốp",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Huyện Chơn Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Huyện Hớn Quản",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Huyện Lộc Ninh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Huyện Phú Riềng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Huyện Đồng Phú",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Thành Phố Đồng Xoài",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Thị Xã Bình Long",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Thị Xã Phước Long",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4d"
+  },
+  {
+    "name": "Huyện Bắc Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Huyện Hàm Tân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Huyện Hàm Thuận Bắc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Huyện Hàm Thuận Nam",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Huyện Phú Quý",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Huyện Tánh Linh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Huyện Tuy Phong",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Huyện Đức Linh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Thành Phố Phan Thiết",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Thị Xã La Gi",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4e"
+  },
+  {
+    "name": "Huyện An Lão",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Huyện Hoài Ân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Huyện Phù Cát",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Huyện Phù Mỹ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Huyện Tây Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Huyện Tuy Phước",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Huyện Vân Canh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Huyện Vĩnh Thạnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Thành Phố Quy Nhơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Thị Xã An Nhơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Thị Xã Hoài Nhơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b4f"
+  },
+  {
+    "name": "Huyện Cái Nước",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b50"
+  },
+  {
+    "name": "Huyện Năm Căn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b50"
+  },
+  {
+    "name": "Huyện Ngọc Hiển",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b50"
+  },
+  {
+    "name": "Huyện Phú Tân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b50"
+  },
+  {
+    "name": "Huyện Thới Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b50"
+  },
+  {
+    "name": "Huyện Trần Văn Thời",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b50"
+  },
+  {
+    "name": "Huyện U Minh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b50"
+  },
+  {
+    "name": "Huyện Đầm Dơi",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b50"
+  },
+  {
+    "name": "Thành Phố Cà Mau",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b50"
+  },
+  {
+    "name": "Huyện Cờ Đỏ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b51"
+  },
+  {
+    "name": "Huyện Phong Điền",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b51"
+  },
+  {
+    "name": "Huyện Thới Lai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b51"
+  },
+  {
+    "name": "Huyện Vĩnh Thạnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b51"
+  },
+  {
+    "name": "Quận Bình Thủy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b51"
+  },
+  {
+    "name": "Quận Cái Răng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b51"
+  },
+  {
+    "name": "Quận Ninh Kiều",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b51"
+  },
+  { "name": "Quận Ô Môn", "level": 2, "countryId": "62d925cfffd08e0223206b51" },
+  {
+    "name": "Quận Thốt Nốt",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b51"
+  },
+  {
+    "name": "Huyện Bảo Lạc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Huyện Bảo Lâm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Huyện Hạ Lang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Huyện Hà Quảng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Huyện Hòa An",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Huyện Nguyên Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Huyện Quảng Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Huyện Thạch An",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Huyện Trùng Khánh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Thành Phố Cao Bằng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b52"
+  },
+  {
+    "name": "Huyện Chư Păh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Chư Prông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Chư Pưh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Chư Sê",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Ia Grai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Ia Pa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Kbang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Kông Chro",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Krông Pa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Mang Yang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Phú Thiện",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Đăk Pơ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Đăk Đoa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Đức Cơ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Thành Phố Pleiku",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Thị Xã An Khê",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Thị Xã Ayun Pa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b53"
+  },
+  {
+    "name": "Huyện Bắc Mê",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Bắc Quang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Hoàng Su Phì",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Mèo Vạc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Quản Bạ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Quang Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Vị Xuyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Xín Mần",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Yên Minh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Đồng Văn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Thành Phố Hà Giang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b54"
+  },
+  {
+    "name": "Huyện Bình Lục",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b55"
+  },
+  {
+    "name": "Huyện Kim Bảng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b55"
+  },
+  {
+    "name": "Huyện Lý Nhân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b55"
+  },
+  {
+    "name": "Huyện Thanh Liêm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b55"
+  },
+  {
+    "name": "Thành Phố Phủ Lý",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b55"
+  },
+  {
+    "name": "Thị Xã Duy Tiên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b55"
+  },
+  {
+    "name": "Huyện Ba Vì",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Chương Mỹ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Gia Lâm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Hoài Đức",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Mê Linh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Mỹ Đức",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Phú Xuyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Phúc Thọ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Quốc Oai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Sóc Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Thạch Thất",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Thanh Oai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Thanh Trì",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Thường Tín",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Ứng Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Đan Phượng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Đông Anh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Ba Đình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Bắc Từ Liêm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Cầu Giấy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Hà Đông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Hai Bà Trưng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Hoàn Kiếm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Hoàng Mai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Long Biên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Nam Từ Liêm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Tây Hồ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Thanh Xuân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Quận Đống Đa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Thị Xã Sơn Tây",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b56"
+  },
+  {
+    "name": "Huyện Cẩm Xuyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Can Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Hương Khê",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Hương Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Kỳ Anh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Lộc Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Nghi Xuân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Thạch Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Vũ Quang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Đức Thọ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Thành Phố Hà Tĩnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Thị Xã Hồng Lĩnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Thị Xã Kỳ Anh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b57"
+  },
+  {
+    "name": "Huyện Bình Giang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Huyện Cẩm Giàng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Huyện Gia Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Huyện Kim Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Huyện Nam Sách",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Huyện Ninh Giang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Huyện Thanh Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Huyện Thanh Miện",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Huyện Tứ Kỳ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Thành Phố Chí Linh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Thành Phố Hải Dương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Thị Xã Kinh Môn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b58"
+  },
+  {
+    "name": "Huyện An Dương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Huyện An Lão",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Huyện Bạch Long Vĩ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Huyện Cát Hải",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Huyện Kiến Thụy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Huyện Thủy Nguyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Huyện Tiên Lãng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Huyện Vĩnh Bảo",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Quận Dương Kinh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Quận Hải An",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Quận Hồng Bàng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Quận Kiến An",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Quận Lê Chân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Quận Ngô Quyền",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Quận Đồ Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b59"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5a"
+  },
+  {
+    "name": "Huyện Châu Thành A",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5a"
+  },
+  {
+    "name": "Huyện Long Mỹ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5a"
+  },
+  {
+    "name": "Huyện Phụng Hiệp",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5a"
+  },
+  {
+    "name": "Huyện Vị Thủy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5a"
+  },
+  {
+    "name": "Thành Phố Ngã Bảy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5a"
+  },
+  {
+    "name": "Thành Phố Vị Thanh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5a"
+  },
+  {
+    "name": "Thị Xã Long Mỹ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5a"
+  },
+  {
+    "name": "Huyện Cao Phong",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Huyện Kim Bôi",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Huyện Lạc Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Huyện Lạc Thủy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Huyện Lương Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Huyện Mai Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Huyện Tân Lạc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Huyện Yên Thủy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Huyện Đà Bắc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Thành Phố Hòa Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5b"
+  },
+  {
+    "name": "Huyện Ân Thi",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Huyện Khoái Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Huyện Kim Động",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Huyện Phù Cừ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Huyện Tiên Lữ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Huyện Văn Giang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Huyện Văn Lâm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Huyện Yên Mỹ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Thành Phố Hưng Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Thị Xã Mỹ Hào",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5c"
+  },
+  {
+    "name": "Huyện Cam Lâm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5d"
+  },
+  {
+    "name": "Huyện Diên Khánh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5d"
+  },
+  {
+    "name": "Huyện Khánh Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5d"
+  },
+  {
+    "name": "Huyện Khánh Vĩnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5d"
+  },
+  {
+    "name": "Huyện Trường Sa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5d"
+  },
+  {
+    "name": "Huyện Vạn Ninh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5d"
+  },
+  {
+    "name": "Thành Phố Cam Ranh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5d"
+  },
+  {
+    "name": "Thành Phố Nha Trang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5d"
+  },
+  {
+    "name": "Thị Xã Ninh Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5d"
+  },
+  {
+    "name": "Huyện An Biên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện An Minh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Giang Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Giồng Riềng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Gò Quao",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Hòn Đất",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Kiên Hải",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Kiên Lương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Tân Hiệp",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện U Minh Thượng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Vĩnh Thuận",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Thành Phố Hà Tiên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Thành Phố Phú Quốc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Thành Phố Rạch Giá",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5e"
+  },
+  {
+    "name": "Huyện Ia H' Drai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Huyện Kon Plông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Huyện Kon Rẫy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Huyện Ngọc Hồi",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Huyện Sa Thầy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Huyện Tu Mơ Rông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Huyện Đắk Glei",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Huyện Đắk Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Huyện Đắk Tô",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Thành Phố Kon Tum",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b5f"
+  },
+  {
+    "name": "Huyện Mường Tè",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b60"
+  },
+  {
+    "name": "Huyện Nậm Nhùn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b60"
+  },
+  {
+    "name": "Huyện Phong Thổ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b60"
+  },
+  {
+    "name": "Huyện Sìn Hồ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b60"
+  },
+  {
+    "name": "Huyện Tam Đường",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b60"
+  },
+  {
+    "name": "Huyện Tân Uyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b60"
+  },
+  {
+    "name": "Huyện Than Uyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b60"
+  },
+  {
+    "name": "Thành Phố Lai Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b60"
+  },
+  {
+    "name": "Huyện Bảo Lâm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Cát Tiên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Di Linh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Lạc Dương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Lâm Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Đạ Huoai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Đạ Tẻh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Đam Rông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Đơn Dương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Đức Trọng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Thành Phố Bảo Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Thành Phố Đà Lạt",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b61"
+  },
+  {
+    "name": "Huyện Bắc Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Bình Gia",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Cao Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Chi Lăng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Hữu Lũng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Lộc Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Tràng Định",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Văn Lãng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Văn Quan",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Đình Lập",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Thành Phố Lạng Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b62"
+  },
+  {
+    "name": "Huyện Bắc Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b63"
+  },
+  {
+    "name": "Huyện Bảo Thắng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b63"
+  },
+  {
+    "name": "Huyện Bảo Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b63"
+  },
+  {
+    "name": "Huyện Bát Xát",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b63"
+  },
+  {
+    "name": "Huyện Mường Khương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b63"
+  },
+  {
+    "name": "Huyện Si Ma Cai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b63"
+  },
+  {
+    "name": "Huyện Văn Bàn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b63"
+  },
+  {
+    "name": "Thành Phố Lào Cai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b63"
+  },
+  {
+    "name": "Thị Xã Sa Pa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b63"
+  },
+  {
+    "name": "Huyện Bến Lức",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Cần Giuộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Cần Đước",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Mộc Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Tân Hưng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Tân Thạnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Tân Trụ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Thạnh Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Thủ Thừa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Vĩnh Hưng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Đức Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Đức Huệ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Thành Phố Tân An",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Thị Xã Kiến Tường",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b64"
+  },
+  {
+    "name": "Huyện Giao Thủy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Huyện Hải Hậu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Huyện Mỹ Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Huyện Nam Trực",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Huyện Nghĩa Hưng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Huyện Trực Ninh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Huyện Vụ Bản",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Huyện Xuân Trường",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Huyện Ý Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Thành Phố Nam Định",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b65"
+  },
+  {
+    "name": "Huyện Anh Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Con Cuông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Diễn Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Hưng Nguyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Kỳ Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Nam Đàn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Nghi Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Nghĩa Đàn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Quế Phong",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Quỳ Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Quỳ Hợp",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Quỳnh Lưu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Tân Kỳ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Thanh Chương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Tương Dương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Yên Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Đô Lương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Thành Phố Vinh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Thị Xã Cửa Lò",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Thị Xã Hoàng Mai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Thị Xã Thái Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b66"
+  },
+  {
+    "name": "Huyện Gia Viễn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b67"
+  },
+  {
+    "name": "Huyện Hoa Lư",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b67"
+  },
+  {
+    "name": "Huyện Kim Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b67"
+  },
+  {
+    "name": "Huyện Nho Quan",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b67"
+  },
+  {
+    "name": "Huyện Yên Khánh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b67"
+  },
+  {
+    "name": "Huyện Yên Mô",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b67"
+  },
+  {
+    "name": "Thành Phố Ninh Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b67"
+  },
+  {
+    "name": "Thành Phố Tam Điệp",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b67"
+  },
+  {
+    "name": "Huyện Bác Ái",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b68"
+  },
+  {
+    "name": "Huyện Ninh Hải",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b68"
+  },
+  {
+    "name": "Huyện Ninh Phước",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b68"
+  },
+  {
+    "name": "Huyện Ninh Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b68"
+  },
+  {
+    "name": "Huyện Thuận Bắc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b68"
+  },
+  {
+    "name": "Huyện Thuận Nam",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b68"
+  },
+  {
+    "name": "Thành Phố Phan Rang-Tháp Chàm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b68"
+  },
+  {
+    "name": "Huyện Cẩm Khê",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Hạ Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Lâm Thao",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Phù Ninh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Tam Nông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Tân Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Thanh Ba",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Thanh Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Thanh Thủy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Yên Lập",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Đoan Hùng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Thành Phố Việt Trì",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Thị Xã Phú Thọ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b69"
+  },
+  {
+    "name": "Huyện Phú Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6a"
+  },
+  {
+    "name": "Huyện Sơn Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6a"
+  },
+  {
+    "name": "Huyện Sông Hinh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6a"
+  },
+  {
+    "name": "Huyện Tây Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6a"
+  },
+  {
+    "name": "Huyện Tuy An",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6a"
+  },
+  {
+    "name": "Huyện Đồng Xuân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6a"
+  },
+  {
+    "name": "Thành Phố Tuy Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6a"
+  },
+  {
+    "name": "Thị Xã Sông Cầu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6a"
+  },
+  {
+    "name": "Thị Xã Đông Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6a"
+  },
+  {
+    "name": "Huyện Bố Trạch",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6b"
+  },
+  {
+    "name": "Huyện Lệ Thủy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6b"
+  },
+  {
+    "name": "Huyện Minh Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6b"
+  },
+  {
+    "name": "Huyện Quảng Ninh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6b"
+  },
+  {
+    "name": "Huyện Quảng Trạch",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6b"
+  },
+  {
+    "name": "Huyện Tuyên Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6b"
+  },
+  {
+    "name": "Thành Phố Đồng Hới",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6b"
+  },
+  {
+    "name": "Thị Xã Ba Đồn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6b"
+  },
+  {
+    "name": "Huyện Bắc Trà My",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Duy Xuyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Hiệp Đức",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Nam Giang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Nam Trà My",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Nông Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Núi Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Phú Ninh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Phước Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Quế Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Tây Giang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Thăng Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Tiên Phước",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Đại Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Đông Giang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Thành Phố Hội An",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Thành Phố Tam Kỳ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Thị Xã Điện Bàn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6c"
+  },
+  {
+    "name": "Huyện Ba Tơ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Bình Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Lý Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Minh Long",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Mộ Đức",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Nghĩa Hành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Sơn Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Sơn Tây",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Sơn Tịnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Trà Bồng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Tư Nghĩa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Thành Phố Quảng Ngãi",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Thị Xã Đức Phổ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6d"
+  },
+  {
+    "name": "Huyện Ba Chẽ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Huyện Bình Liêu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Huyện Cô Tô",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Huyện Hải Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Huyện Tiên Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Huyện Vân Đồn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Huyện Đầm Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Thành Phố Cẩm Phả",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Thành Phố Hạ Long",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Thành Phố Móng Cái",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Thành Phố Uông Bí",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Thị Xã Quảng Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Thị Xã Đông Triều",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6e"
+  },
+  {
+    "name": "Huyện Cam Lộ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Huyện Cồn Cỏ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Huyện Gio Linh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Huyện Hải Lăng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Huyện Hướng Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Huyện Triệu Phong",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Huyện Vĩnh Linh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Huyện Đa Krông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Thành Phố Đông Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Thị Xã Quảng Trị",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b6f"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Huyện Cù Lao Dung",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Huyện Kế Sách",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Huyện Long Phú",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Huyện Mỹ Tú",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Huyện Mỹ Xuyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Huyện Thạnh Trị",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Huyện Trần Đề",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Thành Phố Sóc Trăng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Thị Xã Ngã Năm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Thị Xã Vĩnh Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b70"
+  },
+  {
+    "name": "Huyện Bắc Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Mai Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Mộc Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Mường La",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Phù Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Quỳnh Nhai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Sông Mã",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Sốp Cộp",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Thuận Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Vân Hồ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Yên Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Thành Phố Sơn La",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b71"
+  },
+  {
+    "name": "Huyện Bến Cầu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b72"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b72"
+  },
+  {
+    "name": "Huyện Dương Minh Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b72"
+  },
+  {
+    "name": "Huyện Gò Dầu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b72"
+  },
+  {
+    "name": "Huyện Tân Biên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b72"
+  },
+  {
+    "name": "Huyện Tân Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b72"
+  },
+  {
+    "name": "Thành Phố Tây Ninh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b72"
+  },
+  {
+    "name": "Thị Xã Hòa Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b72"
+  },
+  {
+    "name": "Thị Xã Trảng Bàng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b72"
+  },
+  {
+    "name": "Huyện Hưng Hà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b73"
+  },
+  {
+    "name": "Huyện Kiến Xương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b73"
+  },
+  {
+    "name": "Huyện Quỳnh Phụ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b73"
+  },
+  {
+    "name": "Huyện Thái Thụy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b73"
+  },
+  {
+    "name": "Huyện Tiền Hải",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b73"
+  },
+  {
+    "name": "Huyện Vũ Thư",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b73"
+  },
+  {
+    "name": "Huyện Đông Hưng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b73"
+  },
+  {
+    "name": "Thành Phố Thái Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b73"
+  },
+  {
+    "name": "Huyện Phú Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b74"
+  },
+  {
+    "name": "Huyện Phú Lương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b74"
+  },
+  {
+    "name": "Huyện Võ Nhai",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b74"
+  },
+  {
+    "name": "Huyện Đại Từ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b74"
+  },
+  {
+    "name": "Huyện Định Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b74"
+  },
+  {
+    "name": "Huyện Đồng Hỷ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b74"
+  },
+  {
+    "name": "Thành Phố Sông Công",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b74"
+  },
+  {
+    "name": "Thành Phố Thái Nguyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b74"
+  },
+  {
+    "name": "Thị Xã Phổ Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b74"
+  },
+  {
+    "name": "Huyện Bá Thước",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Cẩm Thủy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Hà Trung",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Hậu Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Hoằng Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Lang Chánh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Mường Lát",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Nga Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Ngọc Lặc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Như Thanh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Như Xuân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Nông Cống",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Quan Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Quan Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Quảng Xương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Thạch Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Thiệu Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Thọ Xuân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Thường Xuân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Triệu Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Vĩnh Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Yên Định",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện Đông Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Thành Phố Sầm Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Thành Phố Thanh Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Thị Xã Bỉm Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Thị Xã Nghi Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b75"
+  },
+  {
+    "name": "Huyện A Lưới",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b76"
+  },
+  {
+    "name": "Huyện Nam Đông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b76"
+  },
+  {
+    "name": "Huyện Phong Điền",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b76"
+  },
+  {
+    "name": "Huyện Phú Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b76"
+  },
+  {
+    "name": "Huyện Phú Vang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b76"
+  },
+  {
+    "name": "Huyện Quảng Điền",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b76"
+  },
+  {
+    "name": "Thành Phố Huế",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b76"
+  },
+  {
+    "name": "Thị Xã Hương Thủy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b76"
+  },
+  {
+    "name": "Thị Xã Hương Trà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b76"
+  },
+  {
+    "name": "Huyện Cái Bè",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Huyện Cai Lậy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Huyện Chợ Gạo",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Huyện Gò Công Tây",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Huyện Gò Công Đông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Huyện Tân Phú Đông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Huyện Tân Phước",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Thành Phố Mỹ Tho",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Thị Xã Cai Lậy",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Thị Xã Gò Công",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b77"
+  },
+  {
+    "name": "Huyện Bình Chánh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Huyện Cần Giờ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Huyện Củ Chi",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Huyện Hóc Môn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Huyện Nhà Bè",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  { "name": "Quận 1", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  { "name": "Quận 10", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  { "name": "Quận 11", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  { "name": "Quận 12", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  { "name": "Quận 3", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  { "name": "Quận 4", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  { "name": "Quận 5", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  { "name": "Quận 6", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  { "name": "Quận 7", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  { "name": "Quận 8", "level": 2, "countryId": "62d925cfffd08e0223206b78" },
+  {
+    "name": "Quận Bình Tân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Quận Bình Thạnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Quận Gò Vấp",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Quận Phú Nhuận",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Quận Tân Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Quận Tân Phú",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Thành Phố Thủ Đức",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b78"
+  },
+  {
+    "name": "Huyện Càng Long",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b79"
+  },
+  {
+    "name": "Huyện Cầu Kè",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b79"
+  },
+  {
+    "name": "Huyện Cầu Ngang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b79"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b79"
+  },
+  {
+    "name": "Huyện Duyên Hải",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b79"
+  },
+  {
+    "name": "Huyện Tiểu Cần",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b79"
+  },
+  {
+    "name": "Huyện Trà Cú",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b79"
+  },
+  {
+    "name": "Thành Phố Trà Vinh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b79"
+  },
+  {
+    "name": "Thị Xã Duyên Hải",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b79"
+  },
+  {
+    "name": "Huyện Chiêm Hóa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7a"
+  },
+  {
+    "name": "Huyện Hàm Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7a"
+  },
+  {
+    "name": "Huyện Lâm Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7a"
+  },
+  {
+    "name": "Huyện Na Hang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7a"
+  },
+  {
+    "name": "Huyện Sơn Dương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7a"
+  },
+  {
+    "name": "Huyện Yên Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7a"
+  },
+  {
+    "name": "Thành Phố Tuyên Quang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7a"
+  },
+  {
+    "name": "Huyện Bình Tân",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7b"
+  },
+  {
+    "name": "Huyện Long Hồ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7b"
+  },
+  {
+    "name": "Huyện Mang Thít",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7b"
+  },
+  {
+    "name": "Huyện Tam Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7b"
+  },
+  {
+    "name": "Huyện Trà Ôn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7b"
+  },
+  {
+    "name": "Huyện Vũng Liêm",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7b"
+  },
+  {
+    "name": "Thành Phố Vĩnh Long",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7b"
+  },
+  {
+    "name": "Thị Xã Bình Minh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7b"
+  },
+  {
+    "name": "Huyện Bình Xuyên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7c"
+  },
+  {
+    "name": "Huyện Lập Thạch",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7c"
+  },
+  {
+    "name": "Huyện Sông Lô",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7c"
+  },
+  {
+    "name": "Huyện Tam Dương",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7c"
+  },
+  {
+    "name": "Huyện Tam Đảo",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7c"
+  },
+  {
+    "name": "Huyện Vĩnh Tường",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7c"
+  },
+  {
+    "name": "Huyện Yên Lạc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7c"
+  },
+  {
+    "name": "Thành Phố Phúc Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7c"
+  },
+  {
+    "name": "Thành Phố Vĩnh Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7c"
+  },
+  {
+    "name": "Huyện Lục Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7d"
+  },
+  {
+    "name": "Huyện Mù Căng Chải",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7d"
+  },
+  {
+    "name": "Huyện Trạm Tấu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7d"
+  },
+  {
+    "name": "Huyện Trấn Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7d"
+  },
+  {
+    "name": "Huyện Văn Chấn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7d"
+  },
+  {
+    "name": "Huyện Văn Yên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7d"
+  },
+  {
+    "name": "Huyện Yên Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7d"
+  },
+  {
+    "name": "Thành Phố Yên Bái",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7d"
+  },
+  {
+    "name": "Thị Xã Nghĩa Lộ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7d"
+  },
+  {
+    "name": "Huyện Hòa Vang",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7e"
+  },
+  {
+    "name": "Quận Cẩm Lệ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7e"
+  },
+  {
+    "name": "Quận Hải Châu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7e"
+  },
+  {
+    "name": "Quận Liên Chiểu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7e"
+  },
+  {
+    "name": "Quận Ngũ Hành Sơn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7e"
+  },
+  {
+    "name": "Quận Sơn Trà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7e"
+  },
+  {
+    "name": "Quận Thanh Khê",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7e"
+  },
+  {
+    "name": "Huyện Buôn Đôn",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Cư Kuin",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Cư M'Gar",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Ea H'Leo",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Ea Kar",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Ea Súp",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Krông A Na",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Krông Bông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Krông Búk",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Krông Năng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Krông Pắk",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  { "name": "Huyện Lắk", "level": 2, "countryId": "62d925cfffd08e0223206b7f" },
+  {
+    "name": "Huyện M'Đrắk",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Thành Phố Buôn Ma Thuột",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Thị Xã Buôn Hồ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b7f"
+  },
+  {
+    "name": "Huyện Cư Jút",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b80"
+  },
+  {
+    "name": "Huyện Krông Nô",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b80"
+  },
+  {
+    "name": "Huyện Tuy Đức",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b80"
+  },
+  {
+    "name": "Huyện Đắk Glong",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b80"
+  },
+  {
+    "name": "Huyện Đắk Mil",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b80"
+  },
+  {
+    "name": "Huyện Đắk R'Lấp",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b80"
+  },
+  {
+    "name": "Huyện Đắk Song",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b80"
+  },
+  {
+    "name": "Thành Phố Gia Nghĩa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b80"
+  },
+  {
+    "name": "Huyện Mường Ảng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Huyện Mường Chà",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Huyện Mường Nhé",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Huyện Nậm Pồ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Huyện Tủa Chùa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Huyện Tuần Giáo",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Huyện Điện Biên",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Huyện Điện Biên Đông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Thành Phố Điện Biên Phủ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Thị Xã Mường Lay",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b81"
+  },
+  {
+    "name": "Huyện Cẩm Mỹ",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Huyện Long Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Huyện Nhơn Trạch",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Huyện Tân Phú",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Huyện Thống Nhất",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Huyện Trảng Bom",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Huyện Vĩnh Cửu",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Huyện Xuân Lộc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Huyện Định Quán",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Thành Phố Biên Hòa",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Thành Phố Long Khánh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b82"
+  },
+  {
+    "name": "Huyện Cao Lãnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Huyện Châu Thành",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Huyện Hồng Ngự",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Huyện Lai Vung",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Huyện Lấp Vò",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Huyện Tam Nông",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Huyện Tân Hồng",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Huyện Thanh Bình",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Huyện Tháp Mười",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Thành Phố Cao Lãnh",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Thành Phố Hồng Ngự",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  },
+  {
+    "name": "Thành Phố Sa Đéc",
+    "level": 2,
+    "countryId": "62d925cfffd08e0223206b83"
+  }
+]

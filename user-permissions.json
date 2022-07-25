@@ -1,0 +1,122 @@
+[
+  {
+    "name": "addManager",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "editManager",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "deleteManager",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "addSupporter",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "editSupporter",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "deleteSupporter",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "addContest",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "editContest",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "deleteContest",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "addRoundContest",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "editRoundContest",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "deleteRoundContest",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "addRoundQuestion",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "editRoundQuestion",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  },
+  {
+    "name": "deleteRoundQuestion",
+    "description": "",
+    "createdAt": 1658378925,
+    "createdBy": "62d36d9615dad63173df7464",
+    "updatedAt": 1658378925,
+    "updatedBy": "62d36d9615dad63173df7464"
+  }
+]

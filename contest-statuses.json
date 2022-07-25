@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0e26fdc2-9134-4676-a3f7-4e1359c6c035",
+    "code": 1,
+    "name": "Physical Education Academy \"Jedrzej Sniadecki\" in Gdansk",
+    "description": "Focused next generation firmware"
+  },
+  {
+    "id": "a183ff17-3dd4-4b40-8226-3f0e7915b63a",
+    "code": 2,
+    "name": "Higher Institute of Business Administration",
+    "description": "Team-oriented multimedia open architecture"
+  },
+  {
+    "id": "7abcd865-dde0-44bd-914a-eaf9c6c0a046",
+    "code": 3,
+    "name": "Kuban State University of Agriculture",
+    "description": "Upgradable asymmetric instruction set"
+  },
+  {
+    "id": "544f8036-9854-4134-94bc-3c0442d45900",
+    "code": 4,
+    "name": "Universidade Federal da Grande Dourados",
+    "description": "Seamless tertiary open architecture"
+  },
+  {
+    "id": "8e3a3862-133e-4da7-a5c6-c8f36525a766",
+    "code": 5,
+    "name": "Avila College",
+    "description": "Polarised actuating archive"
+  }
+]
